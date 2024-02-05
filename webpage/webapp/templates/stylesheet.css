@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+/* Apply the font to the h2 element */
+h2 {
+    font-family: 'Pixelify Sans', sans-serif;
+    color: aquamarine;
+}
+
+/* Apply background color to the body*/
+body {
+    background-color: slategray;
+}
+.container{
+    background-color: rebeccapurple;
+    border-width: 40px;
+    border-radius: 400px;
+}

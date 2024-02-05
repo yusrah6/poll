@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+</head>
+<body>
+    <h1>Login as user</h1>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <form action="{% url 'user_auth:auth_user' %}" method="post">
+        {% csrf_token %}
+        <label>Username</label>
+        <input type="text" name="username" placeholder="User" required>
+        <br/><br/>
+
+        <label>Password</label>
+        <input type="password" name="password" required>
+        <br/><br/>
+
+        <input type="submit" value="Login"/>
+    </form>
+    <p>Don't have an account? Please register <a href="{% url 'user_auth:register' %}">here</a></p>
+</body>
+</html>

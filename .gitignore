@@ -1,0 +1,8 @@
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+# Ignore virtual environment directories
+ven/
+
+# Ignore temporary files
+*.tmp
