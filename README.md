@@ -66,7 +66,8 @@ Visit `http://127.0.0.1:8000` to access the application.
 
 
 ## Screenshots
-![Screenshot 2023-11-22 181655](https://github.com/yusrah6/blog/blob/main/Screenshot%202023-11-22%20181655.png)
-
+![Screenshot 2023-11-22 181655](https://github.com/yusrah6/poll/blob/main/Screenshot%202024-02-15%20172430.png)
+![Screenshot 2023-11-22 181655](https://github.com/yusrah6/poll/blob/main/Screenshot%202024-02-15%20172448.png)
+![Screenshot 2023-11-22 181655](https://github.com/yusrah6/poll/blob/main/Screenshot%202024-02-15%20172525.png)
 ## credits
 This project is maintained by [Yusrah6](https://github.com/yusrah6). If you have any questions or need assistance, feel free to reach out.
